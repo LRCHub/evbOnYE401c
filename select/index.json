@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "青葉 (Movie Ver.)",
+  "base_artist": "imase",
+  "createdAt": "2026-03-13T14:49:28.709429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言の葉 青葉",
+      "artist": "Wake Up, Girls!",
+      "has_synced": true,
+      "path": "select/01_言の葉_青葉_Wake_Up,_Girls!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "言の葉 青葉",
+      "artist": "Wake Up, Girls!",
+      "has_synced": true,
+      "path": "select/02_言の葉_青葉_Wake_Up,_Girls!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "外は戦場だよ 青葉 市子",
+      "artist": "Cornelius",
+      "has_synced": true,
+      "path": "select/03_外は戦場だよ_青葉_市子_Cornelius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青葉",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_青葉_imase.txt"
+    }
+  ]
+}
